@@ -1,0 +1,30 @@
+.statusbar{
+
+    position: absolute;
+    height: 42px;
+    width: 360px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #B0CDC7;
+    
+    }
+
+.body {
+
+   
+    position: absolute;
+    width: 199px;
+    height: 33px;
+    left: 136px;
+    top: 56px;
+    font-style: normal;
+    font-family: Yekan Bakh FaNum;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #2E3131;
+    
+}
