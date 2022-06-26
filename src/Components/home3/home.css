@@ -1,0 +1,87 @@
+.statusbar{
+
+    position: absolute;
+    height: 42px;
+    width: 360px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #B0CDC7;
+    
+    }
+
+.body {
+
+   
+    position: absolute;
+    width: 199px;
+    height: 33px;
+    left: 136px;
+    top: 56px;
+    font-style: normal;
+    /* font-family: Yekan Bakh FaNum; */
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #2E3131;
+    
+}
+
+.buttonChange{
+  
+    border: none;
+    position: absolute;
+    width: 308px;
+    height: 42px;
+    left: 26px;
+    top: 130px;
+    box-shadow: 2px 4px 4px #9EB9B3;
+    border-radius: 10px;
+    filter: drop-shadow(2px 4px 4px #9EB9B3);
+    background: #FFFFFF;
+    /* font-family: 'Yekan Bakh FaNum'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    align-items: center;
+    text-align: center;
+    }
+    .button{
+
+        border: none;
+        position: absolute;
+        width: 308px;
+        height: 42px;
+        left: 26px;
+        top: 196px;
+        box-shadow: 2px 4px 4px #9EB9B3;
+        border-radius: 10px;
+        filter: drop-shadow(2px 4px 4px #9EB9B3);
+        background: #FFFFFF;
+        /* font-family: 'Yekan Bakh FaNum'; */
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        align-items: center;
+        text-align: center;
+    }
+    .footerbutton{
+        border: none;
+        position: absolute;
+        width: 284px;
+        height: 42px;
+        left: 38px;
+        top: 667px;
+        box-shadow: 2px 4px 4px #9EB9B3;
+        border-radius: 10px;
+        filter: drop-shadow(2px 4px 4px #9EB9B3);
+        background: #FFFFFF;
+        /* font-family: 'Yekan Bakh FaNum'; */
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        align-items: center;
+        text-align: center;
+    }

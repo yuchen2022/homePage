@@ -1,0 +1,66 @@
+.bedroom{
+    height: 82px;
+    width: 108px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px 0px #9EB9B3;
+    position: absolute;
+    background: #FFFFFF;
+    left: 206px;
+    top: 114px;
+
+}
+.kitchen{
+    height: 82px;
+    width: 108px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px 0px #9EB9B3;
+    position: absolute;
+    background: #FFFFFF;
+    left: 49px;
+    top: 224px;
+    
+}
+.livingRoom{
+    height: 82px;
+    width: 108px;
+    left: 206px;
+    top: 224px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px 0px #9EB9B3;
+    position: absolute;
+    background: #FFFFFF;
+}
+
+.bathroom{
+    left: 49px;
+    top: 114px;
+    height: 82px;
+    width: 108px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px 0px #9EB9B3;
+    position: absolute;
+    background: #FFFFFF;
+}
+.addingRoom{
+    bottom: 91px;
+    left: 194px;
+    height: 36px;
+    width: 136px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 4px 0px #9EB9B3;
+    position: absolute;
+    background: #FFFFFF;
+}
+.deletingRoom{
+    bottom: 91px;
+    left: 30px;
+    height: 36px;
+    width: 136px;
+    border-radius: 8px;
+    box-shadow: 2px 4px 4px 0px #9EB9B3;
+    position: absolute;
+    background: #FFFFFF;
+    
+}
