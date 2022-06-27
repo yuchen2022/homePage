@@ -7,6 +7,14 @@
     background: #FFFFFF;
     left: 206px;
     top: 114px;
+    border: none;
+    
+/* font-family: Yekan Bakh FaNum; */
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
 
 }
 .kitchen{
@@ -20,6 +28,15 @@
     background: #FFFFFF;
     left: 49px;
     top: 224px;
+    border: none;
+    
+/* font-family: Yekan Bakh FaNum; */
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
+
     
 }
 .livingRoom{
@@ -31,6 +48,15 @@
     box-shadow: 2px 4px 4px 0px #9EB9B3;
     position: absolute;
     background: #FFFFFF;
+    border: none;
+    
+/* font-family: Yekan Bakh FaNum; */
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
+
 }
 
 .bathroom{
@@ -42,25 +68,54 @@
     box-shadow: 2px 4px 4px 0px #9EB9B3;
     position: absolute;
     background: #FFFFFF;
+    border: none;
+    
+/* font-family: Yekan Bakh FaNum; */
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: right;
+
 }
 .addingRoom{
+    
     bottom: 91px;
     left: 194px;
     height: 36px;
-    width: 136px;
+    width:36px;
     border-radius: 8px;
     box-shadow: 2px 4px 4px 0px #9EB9B3;
     position: absolute;
     background: #FFFFFF;
+    border: none;
+    
+/* font-family: Yekan Bakh FaNum; */
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 .deletingRoom{
+
     bottom: 91px;
     left: 30px;
     height: 36px;
-    width: 136px;
+    width: 36px;
     border-radius: 8px;
     box-shadow: 2px 4px 4px 0px #9EB9B3;
     position: absolute;
     background: #FFFFFF;
+    border: none;
+   
+/* font-family: Yekan Bakh FaNum; */
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
     
 }

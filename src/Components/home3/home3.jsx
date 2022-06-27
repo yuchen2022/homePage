@@ -1,6 +1,7 @@
 import React from "react";
-import Navbar from "../home2/navbar";
-import StatusBar from "./statusbar";
+import Navbar from "../navbar/navbar";
+import StatusBar from "../statusbar/statusbar";
+
 import "./home.css";
 
 const Home3 = () => {

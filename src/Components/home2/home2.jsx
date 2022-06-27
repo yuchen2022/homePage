@@ -1,7 +1,9 @@
 import React from "react";
-import StatusBar from "../home3/statusbar";
+import AddingIcon from "../buttons/addingIcon";
+import Navbar from "../navbar/navbar";
+import StatusBar from "../statusbar/statusbar";
 import "./home.css";
-import Navbar from "./navbar";
+
 
 const Home2 = () => {
   return (
@@ -10,7 +12,7 @@ const Home2 = () => {
       <div className="container-fluid">
         <span className="body ">تنظیمات خانه</span>
 
-        <img src="icons/add.png" className="mt-5 p-2 " alt="#" />
+       <AddingIcon/>
       </div>
       <button className="button">خانه ی من</button>
       <button className="footerbutton">اضافه کردن خانه جدید</button>

@@ -9,15 +9,6 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          {/* <Route
-            index
-            path="/"
-            element={
-              <>
-                <Home2 />
-              </>
-            }
-          ></Route> */}
           <Route
             index
             path="/"
@@ -27,6 +18,15 @@ function App() {
               </>
             }
           ></Route>
+          {/* <Route
+            index
+            path="/"
+            element={
+              <>
+                <Home7 />
+              </>
+            }
+          ></Route> */}
         </Routes>
       </BrowserRouter>
     </div>
