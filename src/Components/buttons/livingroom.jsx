@@ -6,7 +6,7 @@ const Livingroom = () => {
       {" "}
       <button className="livingRoom">
         <img src="icons/livingroom.png" />
-        اتاق پذیرایی
+        اتاق.پذیرایی
       </button>
     </>
   );

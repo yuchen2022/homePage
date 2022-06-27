@@ -3,9 +3,10 @@ import AddingIcon from "../buttons/addingIcon";
 import Navbar from "../navbar/navbar";
 import StatusBar from "../statusbar/statusbar";
 import "./home.css";
-
+import { useNavigate } from "react-router-dom";
 
 const Home2 = () => {
+  const navigate = useNavigate();
   return (
     <>
       <StatusBar />
@@ -14,7 +15,7 @@ const Home2 = () => {
 
        <AddingIcon/>
       </div>
-      <button className="button">خانه ی من</button>
+      <button onClick={()=>navigate("/home3")} className="button">خانه ی من</button>
       <button className="footerbutton">اضافه کردن خانه جدید</button>
 
       <Navbar />

@@ -3,7 +3,7 @@ const Bathroom = () => {
     <>
       <button className="bathroom">
         <img src="icons/bathroom.png" />
-        سرویس بهداشتی
+        سرویس.بهدا...
       </button>
     </>
   );

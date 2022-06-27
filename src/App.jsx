@@ -14,19 +14,28 @@ function App() {
             path="/"
             element={
               <>
-                <Home7 />
+                <Home2 />
               </>
             }
           ></Route>
-          {/* <Route
+          <Route
             index
-            path="/"
+            path="/home3"
+            element={
+              <>
+                <Home3 />
+              </>
+            }
+          ></Route>
+          <Route
+            index
+            path="/home7"
             element={
               <>
                 <Home7 />
               </>
             }
-          ></Route> */}
+          ></Route>
         </Routes>
       </BrowserRouter>
     </div>

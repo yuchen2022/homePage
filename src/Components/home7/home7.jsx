@@ -1,9 +1,7 @@
 import React from "react";
-import Addingroom from "../buttons/addingroom";
-import ArrowIcon from "../buttons/arrowIcon";
+import HandleBack from "../buttons/HandleBack";
 import Bathroom from "../buttons/bathroom";
 import Bedroom from "../buttons/bedroom";
-import Deletingroom from "../buttons/detetingroom";
 import Kitchen from "../buttons/kitchen";
 import Livingroom from "../buttons/livingroom";
 import Navbar from "../navbar/navbar";
@@ -17,15 +15,14 @@ const Home7 = () => {
       <div className="container-fluid">
         <span className="body">مدیریت اتاق ها </span>
 
-        <ArrowIcon />
+        <HandleBack />
       </div>
       <Bedroom />
       <Bathroom />
       <Livingroom />
       <Kitchen />
       <div className="row">
-        <Addingroom />
-        <Deletingroom />
+        
       </div>
 
       <Navbar />
